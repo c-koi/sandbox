@@ -9,7 +9,7 @@ os:
 
 branches:
   only:
-    - master
+    - main
     - devel
 
 compiler:
